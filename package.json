@@ -1,0 +1,19 @@
+{
+  "name": "dzenanibric.socialnetwork",
+  "version": "1.0.0",
+  "description": "Mini and simple responsive social network development with use of html, css, php, javascript, nodejs and  mysql with apache web server",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzenanibric/social_network.git"
+  },
+  "author": "Dzenan Ibric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzenanibric/social_network/issues"
+  },
+  "homepage": "https://github.com/dzenanibric/social_network#readme"
+}
